@@ -3,6 +3,8 @@ Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
 Allow: /CNAME
+Allow: /googlea63fae354dd2d06a.html
+Allow: /BingSiteAuth.xml
 Disallow: /ini*.*l
 Disallow: /cgi-bin/
 Disallow: /cdn-cgi/
