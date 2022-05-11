@@ -7,7 +7,7 @@ Allow: /googlea63fae354dd2d06a.html
 Allow: /BingSiteAuth.xml
 Allow: /yandex_1daaf95b12ac90ea.html
 Disallow: /ini*.*l
-Disallow: /cdn-cgi/
+# Disallow: /cdn-cgi/
 
 
 Sitemap: https://estudionale.com.ar/sitemap.xml
