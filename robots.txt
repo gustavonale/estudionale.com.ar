@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /LICE*
+Disallow: /REA*.md
+Disallow: /ini*.*l
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
@@ -6,8 +9,6 @@ Allow: /CNAME
 Allow: /googlea63fae354dd2d06a.html
 Allow: /BingSiteAuth.xml
 Allow: /yandex_1daaf95b12ac90ea.html
-Disallow: /ini*.*l
-# Disallow: /cdn-cgi/
 
 
 Sitemap: https://estudionale.com.ar/sitemap.xml
