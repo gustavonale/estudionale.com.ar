@@ -12,6 +12,6 @@ Disallow: /cdn-cgi/
 # Allow: /BingSiteAuth.xml
 # Allow: /yandex_1daaf95b12ac90ea.html
 
-Host: estudionale.com.ar
+Host: estudionale.com
 
 Sitemap: https://estudionale.com.ar/sitemap.xml
