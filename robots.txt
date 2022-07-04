@@ -1,11 +1,12 @@
 User-agent: *
+Allow: /*
 Disallow: /LICE*
 Disallow: /REA*.md
 Disallow: /ini*.*l
 Disallow: /cdn-cgi/
-Allow: /index.html
-Allow: /404.html
-Allow: /sitemap.xml
+# Allow: /index.html
+# Allow: /404.html
+# Allow: /sitemap.xml
 # Allow: /CNAME
 # Allow: /googlea63fae354dd2d06a.html
 # Allow: /BingSiteAuth.xml
