@@ -6,4 +6,4 @@ Disallow: /cdn-cgi/
 
 Sitemap: https://estudionale.com.ar/sitemap.xml
 
-#Host: estudionale.com
+Host: estudionale.com
