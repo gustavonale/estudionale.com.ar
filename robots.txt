@@ -2,6 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /ini*.*l
 Disallow: /cdn-cgi/
+Disallow: /wp*
 #Crawl-delay: 0
 
 Sitemap: https://estudionale.com.ar/sitemap.xml
