@@ -1,12 +1,8 @@
 User-agent: *
-Allow: /
+Disallow: /
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
-Disallow: /ini*.*l
-Disallow: /cdn-cgi/
-Disallow: /wp*
-Disallow: /site*
 Crawl-delay: 60
 
 Sitemap: https://estudionale.com.ar/sitemap.xml
