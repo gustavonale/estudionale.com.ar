@@ -7,7 +7,7 @@ Disallow: /ini*.*l
 Disallow: /cdn-cgi/
 Disallow: /wp*
 Disallow: /site*
-Crawl-delay: 60
+#Crawl-delay: 60
 
 Sitemap: https://estudionale.com.ar/sitemap.xml
 
