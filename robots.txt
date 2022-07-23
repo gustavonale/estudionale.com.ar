@@ -1,9 +1,5 @@
 User-agent: *
-Allow: /
-Disallow: /ini*.*l
-Disallow: /cdn-cgi/
+Disallow: /
 Crawl-delay: 60
-
-Sitemap: https://estudionale.com.ar/sitemap.xml
 
 Host: estudionale.com
