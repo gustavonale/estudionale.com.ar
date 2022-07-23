@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /
-Crawl-delay: 60
+#Crawl-delay: 60
 
 Host: estudionale.com
